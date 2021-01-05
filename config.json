@@ -1,0 +1,14 @@
+{
+    "data_dir": "./input-thesis",
+    "labels": "./input-thesis/labels.txt",
+    "model_name_or_path": "dbmdz/bert-base-turkish-cased",
+    "output_dir": "../output/BERT-WIKIANN",
+    "max_seq_length": 128,
+    "num_train_epochs": 1,
+    "per_device_train_batch_size": 32,
+    "save_steps": 750,
+    "seed": 1,
+    "do_train": true,
+    "do_eval": true,
+    "do_predict": true
+}
