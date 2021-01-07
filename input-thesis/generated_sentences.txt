@@ -1,0 +1,14096 @@
+Kilis'e	B-LOC
+bir 	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan 	B-LOC
+Rize'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Tokat'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Artvin'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Artvin'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Mersin'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Ardahan'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Elazığ'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Giresun'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Adana'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Kayseri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Kırşehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Gümüşhane'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Kırıkkale'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Kocaeli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Gümüşhane'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Kırklareli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Zonguldak'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Konya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Sinop'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Denizli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Bartın'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Elazığ'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Çanakkale'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Aksaray'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Bitlis'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Istanbul'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+İzmir'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Sinop'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Trabzon'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Tekirdağ'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Adıyaman'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Bolu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Bursa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Mardin'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Ağrı'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Batman'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Kastamonu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Trabzon'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Çankırı'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Sakarya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Manisa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Kırıkkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Erzurum'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Adıyaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Düzce'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Bolu'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Rize'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Iğdır'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Malatya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Ordu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Denizli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Aksaray'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Kırşehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Batman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Burdur'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Ankara'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Batman'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Ankara'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Tokat'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Iğdır'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Denizli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Iğdır'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Kütahya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Adıyaman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Karaman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Erzincan'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Sakarya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Ağrı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Malatya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Bitlis'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Bayburt'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Bitlis'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Hatay'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Eskişehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Osmaniye'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Yalova'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Konya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Karaman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Uşak'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Bursa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Ağrı'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Yalova'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Yalova'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Istanbul'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Düzce'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Iğdır'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Bilecik'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Amasya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Iğdır'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Aydın'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Kocaeli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Bursa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Düzce'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Iğdır'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Sivas'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Uşak'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Nevşehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Kars'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Kırıkkale'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Ordu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Van'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Elazığ'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Mardin'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Van'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Bursa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Bartın'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Trabzon'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Rize'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Kars'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Kırşehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+İzmir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Rize'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Kırıkkale'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Sivas'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Adana'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Yozgat'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Yalova'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Ordu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Kilis'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+İzmir'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Konya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Gümüşhane'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Aksaray'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Rize'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Konya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Yalova'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Çorum'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Istanbul'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Kars'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Samsun'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Gümüşhane'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Tokat'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Eskişehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Van'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Muğla'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Isparta'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Afyonkarahisar'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Adana'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Bilecik'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Samsun'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Tekirdağ'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Osmaniye'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Iğdır'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Sivas'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Batman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Çorum'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Istanbul'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Kars'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Elazığ'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Isparta'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Hakkâri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Ankara'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Bitlis'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Sinop'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Yozgat'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Batman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Isparta'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Amasya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Konya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Artvin'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Iğdır'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Bolu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Manisa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Zonguldak'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+İzmir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Elazığ'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Bingöl'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Kahramanmaraş'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Hatay'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Muş'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Edirne'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Kırıkkale'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Aydın'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kırıkkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Uşak'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Trabzon'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Samsun'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Sinop'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Kırşehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Sivas'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Mersin'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Samsun'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Kilis'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Sakarya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Kırklareli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Afyonkarahisar'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Karabük'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Artvin'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Çanakkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Tekirdağ'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Denizli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Şırnak'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Ankara'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Amasya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Denizli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Tokat'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Antalya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Bilecik'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Nevşehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Giresun'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Muğla'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Sakarya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Nevşehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Ordu'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Sivas'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Antalya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Amasya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Antalya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Kocaeli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Denizli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Kayseri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Kırşehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Şırnak'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Kocaeli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Iğdır'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Bayburt'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Isparta'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Uşak'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Kars'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Antalya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Mersin'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Burdur'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Kırklareli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Ordu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Tokat'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Trabzon'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Kırıkkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Adıyaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Istanbul'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Sivas'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Manisa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Kastamonu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Mersin'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Çorum'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Sivas'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Edirne'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Denizli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Niğde'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Zonguldak'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Edirne'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Gümüşhane'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Amasya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Denizli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Amasya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Kayseri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Bayburt'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Amasya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Siirt'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Bursa'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Yozgat'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Kırşehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Sakarya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Kırklareli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Karabük'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Ankara'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Mardin'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Düzce'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Kırıkkale'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Kayseri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Kocaeli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Ordu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Van'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Denizli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Elazığ'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Artvin'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Siirt'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Muğla'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Niğde'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Zonguldak'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Ardahan'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Kocaeli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Muğla'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Karabük'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Tunceli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Antalya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Antalya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Gümüşhane'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Bingöl'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Istanbul'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Yozgat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+İzmir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Çankırı'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Bitlis'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Osmaniye'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Burdur'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Aydın'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Adana'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Ağrı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Erzincan'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Sinop'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Kırşehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Bilecik'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Ankara'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Diyarbakır'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Adana'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Rize'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Kayseri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Diyarbakır'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Yalova'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Malatya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Tekirdağ'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Kahramanmaraş'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Yozgat'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Aksaray'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Mersin'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Balıkesir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Kırıkkale'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Muş'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Ağrı'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Osmaniye'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Van'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Batman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Eskişehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Yalova'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kars'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Yalova'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Adana'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Tekirdağ'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kocaeli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Nevşehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Eskişehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Adana'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Giresun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Balıkesir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Çankırı'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Samsun'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Muğla'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Gaziantep'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Edirne'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Karaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Denizli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Edirne'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Bolu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Istanbul'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Bolu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Samsun'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Aksaray'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Mardin'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Isparta'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Sakarya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Balıkesir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Uşak'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Sakarya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Ağrı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Yozgat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Sakarya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Sakarya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Bilecik'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Antalya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Muş'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Muş'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Giresun'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Malatya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Tunceli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Aydın'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Balıkesir'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Kırıkkale'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Hakkâri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Şırnak'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Çorum'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Mersin'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Kütahya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Düzce'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Batman'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Ardahan'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Balıkesir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Rize'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Trabzon'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Afyonkarahisar'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Manisa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Çanakkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Hakkâri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Yozgat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Malatya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Bitlis'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Kastamonu'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+İzmir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Erzincan'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Tunceli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Karabük'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Kayseri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Adana'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Adıyaman'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Tokat'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Samsun'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Isparta'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Sinop'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Kırıkkale'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Burdur'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Bartın'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Tokat'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Konya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Kahramanmaraş'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Kocaeli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Mersin'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Giresun'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Gaziantep'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Hatay'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Edirne'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Bilecik'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Istanbul'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Samsun'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Aksaray'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Çankırı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Eskişehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Giresun'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Kütahya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Trabzon'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Ankara'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Uşak'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Kars'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Iğdır'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Gaziantep'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+İzmir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Antalya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Batman'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Istanbul'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Çanakkale'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Çorum'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Diyarbakır'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Nevşehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Kırşehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Konya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Burdur'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Diyarbakır'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Zonguldak'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Istanbul'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Yalova'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Erzincan'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Düzce'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Eskişehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Çorum'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Antalya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Sinop'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Gaziantep'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Bayburt'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Hakkâri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Adıyaman'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Şanlıurfa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Eskişehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Antalya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Manisa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Ordu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Eskişehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Edirne'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Tokat'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Muş'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Konya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Erzurum'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Çankırı'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Muğla'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Konya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Kars'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Karaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Kilis'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Mersin'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Kütahya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Sinop'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Aydın'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Bingöl'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Diyarbakır'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Artvin'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Şırnak'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Kocaeli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Kırşehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Istanbul'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kastamonu'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Ağrı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Konya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Siirt'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Düzce'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Düzce'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Artvin'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Yalova'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kırıkkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Ordu'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Zonguldak'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Gaziantep'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Istanbul'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Bingöl'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Kayseri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Bilecik'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Istanbul'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Bilecik'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Istanbul'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kocaeli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Bilecik'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Mardin'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Van'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Gümüşhane'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Yozgat'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Şırnak'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Isparta'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Muğla'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+İzmir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Muğla'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Muğla'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Bingöl'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Adana'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Bolu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Balıkesir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Kırşehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Bilecik'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Antalya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Manisa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Karabük'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Eskişehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Burdur'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Erzurum'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Karaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Bayburt'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Tekirdağ'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Mardin'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Edirne'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Kırklareli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Hakkâri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Bursa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Yozgat'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Kütahya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+İzmir'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Hatay'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Çorum'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Osmaniye'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Hakkâri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Yozgat'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Kayseri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Amasya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Mardin'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Kastamonu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Osmaniye'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Hatay'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Muğla'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Trabzon'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Çanakkale'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Aydın'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Manisa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Hakkâri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Adıyaman'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Muş'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Yozgat'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Gümüşhane'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Burdur'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Kastamonu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Iğdır'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Hakkâri'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Nevşehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Giresun'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+İzmir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Hakkâri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Bartın'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Trabzon'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Bitlis'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Kırklareli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Ordu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Tekirdağ'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Çanakkale'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Konya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Niğde'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Artvin'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Isparta'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Denizli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Istanbul'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Gümüşhane'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Kırklareli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Yalova'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Erzurum'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Hakkâri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Kütahya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Mardin'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Uşak'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Malatya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Bilecik'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Amasya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Çorum'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Sakarya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Samsun'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Sinop'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Sivas'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Eskişehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Burdur'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kars'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Erzincan'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Manisa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Bilecik'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Tokat'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Şanlıurfa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Nevşehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Erzincan'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Malatya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Karabük'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Kırşehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Afyonkarahisar'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Yozgat'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Elazığ'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Batman'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Ordu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Muş'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Adıyaman'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Hatay'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Mardin'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Aydın'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Antalya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Muğla'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Denizli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Iğdır'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Aksaray'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Trabzon'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Gümüşhane'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Bilecik'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Ankara'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Nevşehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Gaziantep'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Bilecik'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Ağrı'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Kocaeli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Iğdır'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Van'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Ağrı'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Kastamonu'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Uşak'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Aydın'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Antalya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Kayseri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Aydın'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Aksaray'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Manisa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Rize'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Sinop'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Kırşehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Kars'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Şırnak'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Malatya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Bitlis'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Bursa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Aksaray'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Artvin'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Eskişehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Antalya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Kilis'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Istanbul'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Trabzon'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Karabük'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Tokat'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Manisa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Giresun'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Konya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Ardahan'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Gümüşhane'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Kilis'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Çankırı'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Tekirdağ'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Kars'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Şanlıurfa'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Erzincan'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Düzce'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Kayseri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Edirne'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Kayseri'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Muğla'dan	B-LOC
+Amasya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Bingöl'e	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Düzce'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Şırnak'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Sinop'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Kastamonu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Ankara'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Bartın'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Aydın'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Balıkesir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Afyonkarahisar'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Bolu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Kilis'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Adıyaman'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Eskişehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Zonguldak'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Çankırı'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Sakarya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Burdur'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Kocaeli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Giresun'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Bayburt'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Adıyaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Muğla'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Aksaray'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Bursa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Iğdır'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Siirt'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Sinop'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Batman'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kilis'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Kastamonu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Şırnak'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Hatay'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Kilis'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+İzmir'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Denizli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Denizli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Samsun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Burdur'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Kilis'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Isparta'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Van'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Bursa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Bursa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Diyarbakır'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Sinop'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Ardahan'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Giresun'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Bursa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Bursa'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Giresun'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Ardahan'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Yozgat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Hakkâri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Ordu'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Kütahya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Yalova'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Sinop'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Bingöl'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Mardin'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Bartın'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Bitlis'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Sakarya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Zonguldak'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Hatay'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Karabük'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Yozgat'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Erzincan'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Karabük'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Kırıkkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Istanbul'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Amasya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Trabzon'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Osmaniye'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Tekirdağ'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Bilecik'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Rize'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Kırşehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Ankara'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Gaziantep'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Muş'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Erzurum'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Diyarbakır'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Yalova'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Bingöl'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Tekirdağ'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Amasya'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Kütahya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Kilis'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Bayburt'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Uşak'a	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Istanbul'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Ankara'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Gaziantep'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Gaziantep'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Hatay'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Bayburt'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Sivas'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Sakarya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Siirt'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Muğla'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Osmaniye'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Burdur'dan	B-LOC
+Yozgat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Muş'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Ağrı'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Bolu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Samsun'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Osmaniye'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Isparta'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Gaziantep'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Bartın'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Karabük'e	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Ordu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Kırşehir'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Amasya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Çanakkale'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Çankırı'ya	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Gaziantep'e	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Osmaniye'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Adana'ya	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Kırıkkale'ye	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Kayseri'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Şırnak'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Edirne'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Niğde'den	B-LOC
+Eskişehir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Konya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Kastamonu'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Ordu'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Muğla'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Giresun'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Muş'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Edirne'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Muğla'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Kayseri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Bingöl'e	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Kastamonu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Kars'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kocaeli'ye	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Muğla'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Aksaray'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Kırşehir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Zonguldak'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Sinop'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Sivas'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Mersin'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Denizli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Muş'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Kocaeli'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çanakkale'den	B-LOC
+Giresun'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Aydın'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Gaziantep'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Kilis'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Çorum'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Bartın'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Malatya'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Bitlis'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Kocaeli'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Manisa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Tunceli'ye	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Bayburt'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Kayseri'ye	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Bingöl'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Rize'ye	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Batman'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Artvin'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Tokat'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Niğde'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sivas'tan	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Tekirdağ'a	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Kocaeli'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Artvin'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Düzce'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Malatya'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Karaman'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Osmaniye'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Bolu'ya	B-LOC
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Kars'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Konya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Osmaniye'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Aydın'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Afyonkarahisar'a	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Bayburt'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Balıkesir'e	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Kahramanmaraş'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Erzincan'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Karabük'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Isparta'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Sakarya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Elazığ'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Şanlıurfa'ya	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Edirne'ye	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Eskişehir'e	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Kars'a	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Aksaray'a	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Kilis'e	B-LOC
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Kayseri'ye	B-LOC
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Balıkesir'e	B-LOC
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Gümüşhane'ye	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Bolu'ya	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Mersin'e	B-LOC
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Ankara'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Ağrı'ya	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Giresun'a	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Bursa'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Diyarbakır'a	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Karaman'a	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Mersin'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Nevşehir'e	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Van'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Kayseri'ye	B-LOC
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Çorum'a	B-LOC
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Amasya'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Adana'ya	B-LOC
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Kütahya'ya	B-LOC
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Edirne'den	B-LOC
+Giresun'a	B-LOC
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Isparta'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Karaman'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Mardin'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Muğla'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Sakarya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Yalova'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kırşehir'de	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Ardahan'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+İzmir'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Şanlıurfa'da	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Kastamonu'da	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Kocaeli'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Tekirdağ'da	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Bilecik'te	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kırklareli'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kars'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Istanbul'da	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Kahramanmaraş'ta	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Bursa'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Zonguldak'ta	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Sinop'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Denizli'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Tunceli'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Bartın'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Aksaray'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Gaziantep'te	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Osmaniye'de	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Yozgat'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Manisa'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kütahya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Trabzon'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Düzce'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Edirne'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kırıkkale'de	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Ağrı'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Muş'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Samsun'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Malatya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Ordu'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Erzurum'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Aydın'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Çankırı'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Adana'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kilis'te	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Rize'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Artvin'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Karabük'te	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Sivas'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Bolu'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Elazığ'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Mersin'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Hatay'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Siirt'te	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Nevşehir'de	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Konya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Tokat'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Erzincan'da	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Amasya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Bayburt'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Burdur'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Hakkâri'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Gümüşhane'de	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Bingöl'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Çorum'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Diyarbakır'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Niğde'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Eskişehir'de	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Antalya'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Batman'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Adıyaman'da	B-LOC
+konaklamak	O
+istiyorum	
+.	O
+
+Çanakkale'de	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Van'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Ankara'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Iğdır'da	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Balıkesir'de	B-LOC
+konaklamak	O
+istiyoru	"	O"
+.	O
+Şırnak'ta	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Bitlis'te	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Kayseri'de	B-LOC
+konaklamak	O
+istiyorum	O
+.	O
+
+Van	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Adana	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Şırnak	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Sinop	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Ağrı	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kayseri	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Artvin	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kocaeli	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Ankara	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Düzce	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Niğde	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kahramanmaraş	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Tokat	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bolu	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Osmaniye	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kütahya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kilis	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Ordu	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Yozgat	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Giresun	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Iğdır	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Edirne	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Bitlis	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Erzincan	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Şırnak	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Gaziantep	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Adana	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Malatya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bursa	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Antalya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Muğla	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kırklareli	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Denizli	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Trabzon	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Ordu	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Diyarbakır	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bartın	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Erzurum	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Manisa	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Çankırı	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kars	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+İzmir	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Burdur	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Karaman	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Eskişehir	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Sivas	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Tekirdağ	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Amasya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kocaeli	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Mersin	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Bitlis	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Giresun	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Ardahan	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Isparta	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Antalya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Sivas	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Manisa	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Amasya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Mardin	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Artvin	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Aksaray	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Elazığ	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Samsun	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Diyarbakır	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kütahya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Çanakkale	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Karabük	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Yalova	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Tunceli	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Sakarya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Aydın	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Name	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Istanbul	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Tokat	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Adıyaman	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kilis	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kastamonu	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Hatay	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Eskişehir	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Malatya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kahramanmaraş	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Edirne	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Hakkâri	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kars	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Osmaniye	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Rize	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Tunceli	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Sinop	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Nevşehir	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Ağrı	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bursa	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Burdur	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Iğdır	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Çankırı	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kırşehir	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Uşak	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bingöl	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Muş	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Balıkesir	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Nevşehir	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Isparta	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Afyonkarahisar	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Ardahan	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Niğde	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Siirt	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Trabzon	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kırıkkale	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Konya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Muğla	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Sakarya	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Yalova	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Bartın	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Hatay	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Ankara	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kırşehir	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Çorum	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Zonguldak	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Rize	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kırklareli	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Erzurum	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bingöl	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kastamonu	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Denizli	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Samsun	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Bilecik	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Name	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Batman	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Elazığ	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Uşak	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Karabük	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Bolu	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Tekirdağ	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Siirt	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Afyonkarahisar	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Gümüşhane	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Şanlıurfa	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Gaziantep	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Balıkesir	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Gümüşhane	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Hakkâri	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Adıyaman	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Düzce	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bayburt	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Konya	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Mardin	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Mersin	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Erzincan	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Karaman	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Aksaray	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Batman	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Muş	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Aydın	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bilecik	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Yozgat	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Istanbul	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Şanlıurfa	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Kırıkkale	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Kayseri	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Van	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+Zonguldak	B-LOC
+otobüs	O
+bileti	O
+.	O
+
+İzmir	B-LOC
+uçak	O
+bileti	O
+.	O
+
+Bayburt	B-LOC
+uçak	O
+bileti	O
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Mardin	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Afyonkarahisar	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Şanlıurfa	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Hatay	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Balıkesir	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Yalova	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Çankırı	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+NaN	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bitlis	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Osmaniye	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Denizli	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Balıkesir	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Kastamonu	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Hakkâri	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Yalova	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Afyonkarahisar	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Iğdır	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Edirne	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Nevşehir	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Sivas	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Karaman	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Kahramanmaraş	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Giresun	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Nevşehir	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Uşak	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Samsun	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Ağrı	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Amasya	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Istanbul	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Burdur	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Bolu	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Osmaniye	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Kocaeli	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Kırşehir	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Diyarbakır	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Kütahya	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Yozgat	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Ordu	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Artvin	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Kayseri	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bartın	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Batman	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Isparta	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Sivas	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Rize	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Istanbul	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+İzmir	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Düzce	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bilecik	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Name	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Aksaray	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Gaziantep	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Sinop	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Aksaray	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Van	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bursa	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Mersin	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Antalya	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bingöl	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Bingöl	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Çanakkale	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Rize	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Mardin	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Gaziantep	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Malatya	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Ağrı	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+İzmir	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Şırnak	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Kırıkkale	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Kocaeli	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Erzurum	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Denizli	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Adana	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Bayburt	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Kayseri	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+Amasya	B-LOC
+.	O
+
+en	O
+ucuz	O
+uçak	O
+bileti	O
+NaN	B-LOC
+.	O
+
+en	O
+ucuz	O
+otobüs	O
+bileti	O
+Ardahan	B-LOC
+.	O
+
+Sinop'tan	B-LOC
+Kırşehir'e	B-LOC
+mayıs	B-DATE
+ayında	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Eskişehir'e	B-LOC
+gelecek	B-DATE
+çarşamba	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Adıyaman'a	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Bolu'ya	B-LOC
+ağustos	B-DATE
+ayı	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Siirt'e	B-LOC
+şubat	B-DATE
+ayında	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Tokat'a	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Çanakkale'ye	B-LOC
+ocak	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Sakarya'ya	B-LOC
+haftaya	B-DATE
+pazartesi	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Muş'a	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Burdur'a	B-LOC
+perşembe	B-DATE
+gününe	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Afyonkarahisar'a	B-LOC
+gelecek	B-DATE
+salı	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Samsun'a	B-LOC
+haftaya	B-DATE
+pazartesi	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+İzmir'e	B-LOC
+ekim	B-DATE
+ayı	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Diyarbakır'a	B-LOC
+temmuz	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Ardahan'a	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Manisa'ya	B-LOC
+pazartesi	B-DATE
+gününe	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+İzmir'e	B-LOC
+eylül	B-DATE
+ayı	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Niğde'ye	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Tekirdağ'a	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tunceli'den	B-LOC
+Muş'a	B-LOC
+ekim	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Niğde'ye	B-LOC
+cumartesi	B-DATE
+gününe	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Ordu'ya	B-LOC
+temmuz	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Hatay'a	B-LOC
+eylül	B-DATE
+ayında	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Ankara'ya	B-LOC
+haftaya	B-DATE
+pazartesi	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Siirt'ten	B-LOC
+Diyarbakır'a	B-LOC
+eylül	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Diyarbakır'a	B-LOC
+ocak	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Osmaniye'ye	B-LOC
+cuma	B-DATE
+gününe	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Malatya'ya	B-LOC
+cumartesi	B-DATE
+gününe	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Denizli'den	B-LOC
+Kars'a	B-LOC
+salı	B-DATE
+gününe	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Çorum'a	B-LOC
+ağustos	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Siirt'e	B-LOC
+temmuz	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Aksaray'a	B-LOC
+ağustos	B-DATE
+ayı	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Çanakkale'ye	B-LOC
+pazar	B-DATE
+gününe	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Çankırı'ya	B-LOC
+ağustos	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+İzmir'e	B-LOC
+mart	B-DATE
+ayı	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Kilis'e	B-LOC
+çarşamba	B-DATE
+günü	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Sakarya'ya	B-LOC
+nisan	B-DATE
+ayı	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Karabük'e	B-LOC
+ekim	B-DATE
+ayı	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Kars'a	B-LOC
+haftaya	B-DATE
+cuma	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Burdur'a	B-LOC
+çarşamba	B-DATE
+gününe	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Konya'ya	B-LOC
+gelecek	B-DATE
+pazartesi	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Erzurum'a	B-LOC
+haftaya	B-DATE
+pazar	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Çorum'a	B-LOC
+ağustos	B-DATE
+ayında	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Hatay'dan	B-LOC
+Gümüşhane'ye	B-LOC
+pazartesi	B-DATE
+günü	I-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bitlis'ten	B-LOC
+Batman'a	B-LOC
+ağustos	B-DATE
+ayında	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Uşak'a	B-LOC
+nisan	B-DATE
+ayında	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Iğdır'dan	B-LOC
+Diyarbakır'a	B-LOC
+salı	B-DATE
+gününe	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Sivas'a	B-LOC
+gelecek	B-DATE
+cumartesi	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Zonguldak'a	B-LOC
+perşembe	B-DATE
+gününe	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+İzmir'e	B-LOC
+eylül	B-DATE
+ayında	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+İzmir'e	B-LOC
+haftaya	B-DATE
+çarşamba	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Rize'ye	B-LOC
+ağustos	B-DATE
+ayı	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Samsun'a	B-LOC
+salı	B-DATE
+gününe	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Niğde'ye	B-LOC
+çarşamba	B-DATE
+günü	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Bingöl'e	B-LOC
+haftaya	B-DATE
+perşembe	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kahramanmaraş'tan	B-LOC
+Aydın'a	B-LOC
+yarın	B-DATE
+akşam	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Iğdır'a	B-LOC
+haftaya	B-DATE
+perşembe	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kayseri'den	B-LOC
+Sivas'a	B-LOC
+ağustos	B-DATE
+ayında	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Ardahan'a	B-LOC
+çarşamba	B-DATE
+gününe	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Erzurum'a	B-LOC
+cuma	B-DATE
+günü	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Hatay'a	B-LOC
+gelecek	B-DATE
+pazartesi	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ordu'dan	B-LOC
+Gaziantep'e	B-LOC
+gelecek	B-DATE
+perşembe	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Denizli'ye	B-LOC
+haziran	B-DATE
+ayı	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Aksaray'a	B-LOC
+pazartesi	B-DATE
+günü	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Aksaray'a	B-LOC
+cuma	B-DATE
+günü	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Kocaeli'ye	B-LOC
+ağustos	B-DATE
+ayında	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Antalya'ya	B-LOC
+eylül	B-DATE
+ayında	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sakarya'dan	B-LOC
+Düzce'ye	B-LOC
+gelecek	B-DATE
+cumartesi	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Karaman'a	B-LOC
+kasım	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Edirne'ye	B-LOC
+pazartesi	B-DATE
+gününe	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Konya'dan	B-LOC
+Düzce'ye	B-LOC
+haftaya	B-DATE
+perşembe	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Siirt'e	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Çorum'a	B-LOC
+haftaya	B-DATE
+cuma	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Çanakkale'ye	B-LOC
+gelecek	B-DATE
+cuma	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Karabük'e	B-LOC
+pazartesi	B-DATE
+günü	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Hakkâri'ye	B-LOC
+gelecek	B-DATE
+pazar	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kilis'e	B-LOC
+temmuz	B-DATE
+ayı	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Denizli'ye	B-LOC
+pazartesi	B-DATE
+gününe	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Iğdır'a	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Artvin'e	B-LOC
+çarşamba	B-DATE
+günü	I-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Batman'a	B-LOC
+gelecek	B-DATE
+perşembe	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Giresun'a	B-LOC
+yarından	B-DATE
+sonra	I-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şırnak'tan	B-LOC
+Rize'ye	B-LOC
+perşembe	B-DATE
+gününe	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Bitlis'e	B-LOC
+eylül	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Ağrı'ya	B-LOC
+gelecek	B-DATE
+cumartesi	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Aydın'a	B-LOC
+salı	B-DATE
+günü	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Sinop'tan	B-LOC
+Tokat'a	B-LOC
+pazar	B-DATE
+günü	I-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Erzincan'a	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Trabzon'a	B-LOC
+aralık	B-DATE
+ayında	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Isparta'dan	B-LOC
+Burdur'a	B-LOC
+cuma	B-DATE
+günü	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Kayseri'ye	B-LOC
+pazartesi	B-DATE
+gününe	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Isparta'ya	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Bayburt'a	B-LOC
+haziran	B-DATE
+ayında	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Uşak'a	B-LOC
+haftaya	B-DATE
+pazartesi	I-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Van'a	B-LOC
+kasım	B-DATE
+ayı	I-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Zonguldak'tan	B-LOC
+Kırıkkale'ye	B-LOC
+haftaya	B-DATE
+çarşamba	I-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Niğde'ye	B-LOC
+gelecek	B-DATE
+pazar	I-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Çankırı'ya	B-LOC
+temmuz	B-DATE
+ayında	I-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Samsun'dan	B-LOC
+Kars'a	B-LOC
+mart	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Elazığ'dan	B-LOC
+Burdur'a	B-LOC
+ağustos	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Kocaeli'ye	B-LOC
+nisanda	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Aydın'a	B-LOC
+aralıkta	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bartın'dan	B-LOC
+Balıkesir'e	B-LOC
+mart	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Rize'ye	B-LOC
+şubat	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+İzmir'den	B-LOC
+Karabük'e	B-LOC
+haziranda	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırıkkale'den	B-LOC
+Rize'ye	B-LOC
+cuma	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Çorum'a	B-LOC
+pazar	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Gümüşhane'ye	B-LOC
+aralık	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Bayburt'a	B-LOC
+ekim	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Yalova'ya	B-LOC
+eylül	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Kilis'e	B-LOC
+ağustosta	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Mersin'e	B-LOC
+haziranda	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Kastamonu'ya	B-LOC
+dün	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Aksaray'a	B-LOC
+haziran	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çankırı'dan	B-LOC
+Niğde'ye	B-LOC
+martta	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Trabzon'dan	B-LOC
+Zonguldak'a	B-LOC
+pazar	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Giresun'a	B-LOC
+ağustosta	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Bilecik'e	B-LOC
+mart	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Bartın'a	B-LOC
+salı	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Malatya'dan	B-LOC
+Konya'ya	B-LOC
+ekim	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Amasya'dan	B-LOC
+Kastamonu'ya	B-LOC
+pazartesi	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Bitlis'e	B-LOC
+nisanda	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Malatya'ya	B-LOC
+çarşamba	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Artvin'e	B-LOC
+yarın	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ankara'dan	B-LOC
+Karaman'a	B-LOC
+eylül	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Van'dan	B-LOC
+Konya'ya	B-LOC
+temmuzda	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adana'dan	B-LOC
+Kayseri'ye	B-LOC
+haziran	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gümüşhane'den	B-LOC
+Hakkâri'ye	B-LOC
+martta	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Tekirdağ'dan	B-LOC
+Kars'a	B-LOC
+pazar	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Karabük'e	B-LOC
+mart	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Osmaniye'den	B-LOC
+Iğdır'a	B-LOC
+çarşamba	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Bolu'ya	B-LOC
+ekim	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bilecik'ten	B-LOC
+Osmaniye'ye	B-LOC
+pazar	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Eskişehir'den	B-LOC
+Kırklareli'ye	B-LOC
+bugün	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Tokat'a	B-LOC
+temmuz	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Burdur'a	B-LOC
+temmuzda	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırşehir'den	B-LOC
+Bartın'a	B-LOC
+ekim	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Artvin'den	B-LOC
+Sinop'a	B-LOC
+ocakta	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Karabük'e	B-LOC
+temmuz	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Ordu'ya	B-LOC
+martta	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Tunceli'ye	B-LOC
+pazartesi	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Kahramanmaraş'a	B-LOC
+bugün	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ağrı'dan	B-LOC
+Adıyaman'a	B-LOC
+aralıkta	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kütahya'dan	B-LOC
+Adıyaman'a	B-LOC
+kasımda	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Muş'tan	B-LOC
+Edirne'ye	B-LOC
+mayıs	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mersin'den	B-LOC
+Ordu'ya	B-LOC
+haziranda	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kocaeli'den	B-LOC
+Denizli'ye	B-LOC
+çarşamba	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Kırıkkale'ye	B-LOC
+kasımda	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Manisa'dan	B-LOC
+Siirt'e	B-LOC
+pazartesi	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kilis'ten	B-LOC
+Bitlis'e	B-LOC
+ekimde	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Çorum'dan	B-LOC
+Kayseri'ye	B-LOC
+ağustosta	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Diyarbakır'a	B-LOC
+pazartesi	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Mersin'e	B-LOC
+aralık	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Düzce'den	B-LOC
+Balıkesir'e	B-LOC
+şubat	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yalova'dan	B-LOC
+Manisa'ya	B-LOC
+ocak	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bayburt'tan	B-LOC
+Gaziantep'e	B-LOC
+kasımda	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Amasya'ya	B-LOC
+ocakta	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+İzmir'e	B-LOC
+kasım	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kars'tan	B-LOC
+Karabük'e	B-LOC
+eylül	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Kırklareli'den	B-LOC
+Kars'a	B-LOC
+ağustos	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzurum'dan	B-LOC
+Konya'ya	B-LOC
+kasımda	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Osmaniye'ye	B-LOC
+cuma	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Afyonkarahisar'dan	B-LOC
+Tokat'a	B-LOC
+yarına	B-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Eskişehir'e	B-LOC
+haziran	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Hakkâri'den	B-LOC
+Samsun'a	B-LOC
+nisanda	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Erzincan'dan	B-LOC
+Isparta'ya	B-LOC
+perşembe	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Kastamonu'dan	B-LOC
+Edirne'ye	B-LOC
+yarın	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bolu'dan	B-LOC
+Yozgat'a	B-LOC
+haziranda	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Karabük'ten	B-LOC
+Çorum'a	B-LOC
+pazartesi	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Mardin'den	B-LOC
+Şırnak'a	B-LOC
+cuma	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aksaray'dan	B-LOC
+Hatay'a	B-LOC
+temmuz	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Bursa'dan	B-LOC
+Bitlis'e	B-LOC
+mayıs	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Bitlis'e	B-LOC
+ekim	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Adana'ya	B-LOC
+çarşamba	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Tokat'tan	B-LOC
+Erzincan'a	B-LOC
+ekim	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Ardahan'dan	B-LOC
+Ordu'ya	B-LOC
+ocakta	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Tunceli'ye	B-LOC
+eylül	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Bingöl'den	B-LOC
+Afyonkarahisar'a	B-LOC
+temmuz	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Çorum'a	B-LOC
+ocakta	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Aksaray'a	B-LOC
+eylül	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Uşak'tan	B-LOC
+Mardin'e	B-LOC
+dün	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Batman'dan	B-LOC
+Bartın'a	B-LOC
+yarına	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Kütahya'ya	B-LOC
+çarşamba	B-DATE
+üç	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Gaziantep'ten	B-LOC
+Ankara'ya	B-LOC
+temmuzda	B-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Karaman'dan	B-LOC
+Istanbul'a	B-LOC
+perşembe	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Balıkesir'den	B-LOC
+Muş'a	B-LOC
+dün	B-DATE
+bir	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Nevşehir'den	B-LOC
+Kilis'e	B-LOC
+şubatta	B-DATE
+üç	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Giresun'dan	B-LOC
+Kırklareli'ye	B-LOC
+ocak	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Yozgat'tan	B-LOC
+Bursa'ya	B-LOC
+şubatta	B-DATE
+dört	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Istanbul'dan	B-LOC
+Bingöl'e	B-LOC
+eylül	B-DATE
+beş	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Antalya'dan	B-LOC
+Bayburt'a	B-LOC
+haftasonu	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Adıyaman'dan	B-LOC
+Sinop'a	B-LOC
+nisanda	B-DATE
+iki	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+Şanlıurfa'dan	B-LOC
+Karabük'e	B-LOC
+ocakta	B-DATE
+iki	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Diyarbakır'dan	B-LOC
+Sakarya'ya	B-LOC
+kasım	B-DATE
+bir	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Aydın'dan	B-LOC
+Trabzon'a	B-LOC
+perşembe	B-DATE
+beş	B-NUM
+kişilik	O
+uçak	O
+bileti	O
+istiyorum	O
+.	O
+
+Rize'den	B-LOC
+Erzurum'a	B-LOC
+ocakta	B-DATE
+dört	B-NUM
+kişilik	O
+otobüs	O
+bileti	O
+istiyorum	O
+.	O
+
+hafta	I-DATE
+Edirne'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+pazar	I-DATE
+Amasya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+cuma	I-DATE
+Nevşehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+günü	I-DATE
+İzmir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+pazar	I-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazar	B-DATE
+günü	I-DATE
+Iğdır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Diyarbakır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+gününe	I-DATE
+Kütahya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayı	I-DATE
+Sinop'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayı	I-DATE
+Batman'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylül	B-DATE
+ayı	I-DATE
+Isparta'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+ayı	I-DATE
+Burdur'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+ayı	I-DATE
+Ağrı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+ayı	I-DATE
+Erzincan'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylül	B-DATE
+ayında	I-DATE
+Artvin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+cuma	I-DATE
+Istanbul'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+gününe	I-DATE
+Adana'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+pazar	I-DATE
+Isparta'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayında	I-DATE
+Malatya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+günü	I-DATE
+Adana'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Niğde'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+ayı	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+ayı	I-DATE
+Afyonkarahisar'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Rize'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayı	I-DATE
+Trabzon'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziran	B-DATE
+ayında	I-DATE
+Ağrı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazar	B-DATE
+gününe	I-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarın	B-DATE
+akşam	I-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Malatya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+pazar	I-DATE
+Van'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+gününe	I-DATE
+Kırıkkale'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylül	B-DATE
+ayında	I-DATE
+Tokat'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziran	B-DATE
+ayı	I-DATE
+Bartın'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+ayında	I-DATE
+Artvin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayında	I-DATE
+Diyarbakır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazar	B-DATE
+günü	I-DATE
+Aydın'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+gününe	I-DATE
+Artvin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+gününe	I-DATE
+Siirt'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayı	I-DATE
+Kilis'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+ayında	I-DATE
+Sivas'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+cumartesi	I-DATE
+Malatya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayında	I-DATE
+Afyonkarahisar'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+pazar	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+cumartesi	I-DATE
+Muş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+perşembe	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Ordu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+ayı	I-DATE
+Konya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+günü	I-DATE
+Zonguldak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziran	B-DATE
+ayında	I-DATE
+Şanlıurfa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+ayında	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziran	B-DATE
+ayında	I-DATE
+Denizli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+günü	I-DATE
+Karabük'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+perşembe	I-DATE
+Gaziantep'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayı	I-DATE
+Bilecik'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+çarşamba	I-DATE
+Antalya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayı	I-DATE
+Samsun'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+ayı	I-DATE
+Çorum'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+gününe	I-DATE
+Eskişehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+perşembe	B-DATE
+gününe	I-DATE
+Sinop'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+salı	I-DATE
+Gaziantep'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+günü	I-DATE
+Malatya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayı	I-DATE
+Bingöl'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+cuma	I-DATE
+Rize'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+ayı	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+ayı	I-DATE
+Tunceli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+gününe	I-DATE
+Manisa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayında	I-DATE
+Ordu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+ayında	I-DATE
+Bayburt'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+ayında	I-DATE
+Niğde'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+günü	I-DATE
+Rize'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+günü	I-DATE
+Mersin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasım	B-DATE
+ayında	I-DATE
+Ağrı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Denizli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftaya	B-DATE
+pazar	I-DATE
+Trabzon'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziran	B-DATE
+ayında	I-DATE
+Aydın'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+gününe	I-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayı	I-DATE
+Şanlıurfa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+ayında	I-DATE
+Sivas'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+ayında	I-DATE
+Çanakkale'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+ayı	I-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+gününe	I-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+ayında	I-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+ayında	I-DATE
+Aydın'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+gününe	I-DATE
+Rize'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+salı	I-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+pazartesi	I-DATE
+Ardahan'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+gelecek	B-DATE
+çarşamba	I-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayında	I-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+ayı	I-DATE
+Konya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+bu	B-DATE
+akşam	I-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasım	B-DATE
+ayı	I-DATE
+Eskişehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+perşembe	B-DATE
+günü	I-DATE
+Bolu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+ayında	I-DATE
+Mardin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+ayında	I-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+gününe	I-DATE
+Şanlıurfa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarından	B-DATE
+sonra	I-DATE
+Muğla'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasım	B-DATE
+ayında	I-DATE
+Muş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+ayında	I-DATE
+Adıyaman'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+ayında	I-DATE
+Zonguldak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylül	B-DATE
+ayında	I-DATE
+Muğla'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+Kocaeli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+martta	B-DATE
+Bitlis'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+Trabzon'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+Çanakkale'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+Afyonkarahisar'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarın	B-DATE
+Hatay'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+Aksaray'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazar	B-DATE
+Bursa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cumartesi	B-DATE
+Iğdır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+Antalya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocakta	B-DATE
+Niğde'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+Yalova'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+martta	B-DATE
+Şırnak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+martta	B-DATE
+Kocaeli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+Hakkâri'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayısta	B-DATE
+Çorum'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+Adıyaman'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+Ardahan'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekimde	B-DATE
+Sivas'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarına	B-DATE
+Kahramanmaraş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+Bingöl'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylülde	B-DATE
+Kırıkkale'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasımda	B-DATE
+Artvin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Ankara'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarına	B-DATE
+Amasya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Kilis'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+Hakkâri'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cumartesi	B-DATE
+Kırşehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+Ankara'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+Osmaniye'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisan	B-DATE
+Çorum'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekimde	B-DATE
+Kütahya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+Kahramanmaraş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+perşembe	B-DATE
+Şırnak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekim	B-DATE
+Giresun'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarın	B-DATE
+Batman'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+Yalova'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+perşembe	B-DATE
+Kütahya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+martta	B-DATE
+Siirt'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarın	B-DATE
+Eskişehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustos	B-DATE
+Bolu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisanda	B-DATE
+Osmaniye'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+dün	B-DATE
+Bitlis'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+Kastamonu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasımda	B-DATE
+Tekirdağ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+Istanbul'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+Gümüşhane'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+Kütahya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarına	B-DATE
+Gümüşhane'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisanda	B-DATE
+Gümüşhane'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mart	B-DATE
+Zonguldak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziranda	B-DATE
+Adana'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Sinop'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocakta	B-DATE
+Bayburt'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasımda	B-DATE
+Kars'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasım	B-DATE
+Kahramanmaraş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocakta	B-DATE
+Iğdır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+Iğdır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Nevşehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+Manisa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralıkta	B-DATE
+Diyarbakır'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+Tokat'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Muş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+Giresun'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuz	B-DATE
+Gümüşhane'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+yarın	B-DATE
+Şanlıurfa'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+Van'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftasonu	B-DATE
+Artvin'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuzda	B-DATE
+Bitlis'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haftasonu	B-DATE
+Afyonkarahisar'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+eylülde	B-DATE
+Kırşehir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+haziranda	B-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+perşembe	B-DATE
+Elazığ'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuzda	B-DATE
+Rize'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocak	B-DATE
+Tokat'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+çarşamba	B-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+Adana'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+nisanda	B-DATE
+Burdur'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekimde	B-DATE
+Denizli'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+kasım	B-DATE
+Zonguldak'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+bugün	B-DATE
+Muş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Kırıkkale'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+dün	B-DATE
+Düzce'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocakta	B-DATE
+Karaman'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Sakarya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ocakta	B-DATE
+Konya'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+temmuzda	B-DATE
+Hatay'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayıs	B-DATE
+Aksaray'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+pazartesi	B-DATE
+Çankırı'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+cuma	B-DATE
+Kayseri'ye	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubatta	B-DATE
+Kahramanmaraş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ekimde	B-DATE
+Isparta'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+mayısta	B-DATE
+Afyonkarahisar'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+şubat	B-DATE
+Kahramanmaraş'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+aralık	B-DATE
+Balıkesir'e	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+salı	B-DATE
+Bayburt'a	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
+ağustosta	B-DATE
+Bolu'ya	B-LOC
+gitmek	O
+istiyorum	O
+.	O
+
