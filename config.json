@@ -1,6 +1,6 @@
 {
-    "data_dir": "./input-thesis",
-    "labels": "./input-thesis/labels.txt",
+    "data_dir": "./input",
+    "labels": "./input/labels.txt",
     "model_name_or_path": "dbmdz/bert-base-turkish-cased",
     "output_dir": "../output/BERT-WIKIANN",
     "max_seq_length": 128,

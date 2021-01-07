@@ -68,11 +68,11 @@ class ModelArguments:
 @dataclass
 class DataTrainingArguments:
     """
-    Arguments pertaining to what data we are going to input our model for training and eval.
+    Arguments pertaining to what data we are going to input-original our model for training and eval.
     """
 
     data_dir: str = field(
-        metadata={"help": "The input data dir. Should contain the .txt files for a CoNLL-2003-formatted task."}
+        metadata={"help": "The input-original data dir. Should contain the .txt files for a CoNLL-2003-formatted task."}
     )
     labels: Optional[str] = field(
         metadata={"help": "Path to a file containing all labels. If not specified, CoNLL-2003 labels are used."}
@@ -80,7 +80,7 @@ class DataTrainingArguments:
     max_seq_length: int = field(
         default=128,
         metadata={
-            "help": "The maximum total input sequence length after tokenization. Sequences longer "
+            "help": "The maximum total input-original sequence length after tokenization. Sequences longer "
             "than this will be truncated, sequences shorter will be padded."
         },
     )
@@ -276,7 +276,7 @@ def main():
         output_test_predictions_file = os.path.join(training_args.output_dir, "test_predictions.txt")
 
         with open(output_test_predictions_file, "w") as writer:
-            with open(os.path.join(data_args.data_dir, "input/test.txt"), "r") as f:
+            with open(os.path.join(data_args.data_dir, "input-original/test.txt"), "r") as f:
                 example_id = 0
 
                 for line in f:
